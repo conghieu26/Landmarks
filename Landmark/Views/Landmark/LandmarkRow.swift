@@ -33,8 +33,8 @@ struct LandmarkRow: View {
 struct LandmarkRow_Previews: PreviewProvider {
     static var previews: some View {
         VStack{
-            LandmarkRow(landmark: landmarks[0])
-            LandmarkRow(landmark: landmarks[1])
+            LandmarkRow(landmark: ModelData().landmarks[0])
+            LandmarkRow(landmark: ModelData().landmarks[1])
         }
     }
 }
