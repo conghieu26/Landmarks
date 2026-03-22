@@ -6,8 +6,8 @@ Project hiện vẫn đang được cập nhật thêm để hoàn thiện chấ
 
 ## Project Preview
 
-![Landmark Project Overview](./assets/project-overview.jfif)
-![Landmark App Preview - Favorites Filter](./assets/landmark-preview-2.jfif)
+![Landmark Project Overview](./img/5986619c-2df9-4d80-bfdc-3261639875e6.jfif)
+![Landmark App Preview - Favorites Filter](./img/11e653b7-3afa-47ce-beb0-0f0597b44b75.jfif)
 
 _Ảnh 2: Sau khi đánh dấu yêu thích, bật `Favorites only` để lọc và chỉ hiển thị các địa điểm đã thích._
 
