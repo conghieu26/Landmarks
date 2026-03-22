@@ -31,6 +31,7 @@
 		35C76A6E2AF2969400E24194 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C76A6D2AF2969400E24194 /* ModelData.swift */; };
 		35C76A732AF298D600E24194 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C76A722AF298D600E24194 /* LandmarkRow.swift */; };
 		35C76A752AF2994C00E24194 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C76A742AF2994C00E24194 /* LandmarkList.swift */; };
+		86343CAE2F7034ED00B42B38 /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86343CAD2F7034E900B42B38 /* CategoryHome.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		35C76A6D2AF2969400E24194 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		35C76A722AF298D600E24194 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		35C76A742AF2994C00E24194 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		86343CAD2F7034E900B42B38 /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +159,7 @@
 		35C76A602AF28F9600E24194 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				86343CAD2F7034E900B42B38 /* CategoryHome.swift */,
 				35C76A542AF28F4200E24194 /* ContentView.swift */,
 				350533AA2AF5271800E9C7E9 /* Landmark */,
 				351CFF132AFF83470037CDEB /* Badges */,
@@ -256,6 +259,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				35C76A552AF28F4200E24194 /* ContentView.swift in Sources */,
+				86343CAE2F7034ED00B42B38 /* CategoryHome.swift in Sources */,
 				351CFF1B2AFF86060037CDEB /* Badge.swift in Sources */,
 				35C76A532AF28F4200E24194 /* LandmarkApp.swift in Sources */,
 				3523B8212B0087F700E5630B /* GraphCapsule.swift in Sources */,
